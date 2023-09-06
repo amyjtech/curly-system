@@ -1,2 +1,1 @@
-# curly-system
-data analytics class
+### Data Analytics
